@@ -1,3 +1,1 @@
-In this project I will be able to find out if my HTML skills are up to date. 
-
-We will add more here after finishing the project.
+In this project, we will create a website that showcases three or more recipes by opening different webpages for each recipe. Initially, we will be using HTML only.
